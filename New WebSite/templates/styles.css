@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+}
+.main{
+    height: 100vh;
+    background-color: burlywood;
+}
+
+.head{
+    padding-top: 20px;
+    font-size: larger;
+    height: 5vh;
+    background-color: burlywood;
+    padding-bottom: 10px;
+}
+
+
+ 
+.Navbar li{
+    display: inline;
+    list-style: none;
+    margin-right: 25px;
+}
+
+.content iframe{
+    height: 70vh;
+    width: 100%;
+    background-color: antiquewhite;
+
+}
+
+.head ul a{
+    text-decoration: none;
+}
+
+.Navbar .clgname{
+    margin-right: 130vh;
+    font-size: 25px;
+}
+
+
+
+
+
